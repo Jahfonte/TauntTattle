@@ -1,3 +1,5 @@
+![TauntTattle](ttattle.png)
+
 # TauntTattle
 
 Announces taunts and pulls in party or raid chat. Designed for World of Warcraft 1.12.1 and Turtle WoW.
