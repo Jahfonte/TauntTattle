@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: TauntTattle
+## Author: Totemfoo
+## Version: 1.0.0
+## Notes: Announces taunts and pulls in party/raid
+## SavedVariablesPerCharacter: TAUNTTATTLE_ENABLED, TAUNTTATTLE_SELF, TAUNTTATTLE_PULLS
+TauntTattle.lua
